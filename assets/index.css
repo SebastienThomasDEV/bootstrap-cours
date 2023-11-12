@@ -1,0 +1,42 @@
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.page {
+    width: 100vw;
+    height: 100vh;
+}
+
+.darker-grey {
+    background-color: #333;
+    opacity: 0.8;
+}
+
+.text-darker-grey {
+    color: grey;
+
+}
+
+.cursor-pointer {
+    cursor: help;
+}
+
+.theme-container {
+    padding: .75rem;
+    margin-bottom: 1.5rem;
+    color: grey;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+
+
+.background{
+    text-align:center;
+    color: grey;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
